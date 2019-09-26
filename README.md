@@ -9,6 +9,7 @@ https://arxiv.org/abs/1410.0736
 | Shared layer  | 99.92%  | 65.79% |
 | Coarse layer  | 99.32% | 72.57% |
 | Fine layer  | 99.42 ~ 99.95%  | 52.39 ~ 92.19% |
+|Final results | 99.22%| 60.71%|
 
 
 <p float="left">

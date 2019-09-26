@@ -1,4 +1,5 @@
 # HD-CNN-Hierarchical-Deep-Convolutional-Neural-Network
+https://arxiv.org/abs/1410.0736
  HD-CNN with cifar100. Each layer is trained with epochs of 200. 
 
 # Results
